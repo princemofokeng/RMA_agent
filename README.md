@@ -2,7 +2,7 @@
 
 ![RMA Agent Profile Preview](./img/preview.png)
 
-[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://theekingza.github.io/RMA_agent/)
+[![GitHub Pages](https://img.shields.io/badge/Deployed-GitHub%20Pages-blue?logo=github)](https://princemofokeng.github.io/RMA_agent/)
 [![Built with](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-orange)](#)
 [![License](https://img.shields.io/badge/License-Open--Source-green)](#license)
 
@@ -42,7 +42,7 @@ RMA_agent/
 ```
 bash
 
-git clone https://github.com/TheeKingZa/RMA_agent.git
+git clone https://github.com/princemofokeng/RMA_agent.git
 cd RMA_agent
 
 ```
@@ -80,7 +80,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M master
-git remote add origin https://github.com/TheeKingZa/RMA_agent.git
+git remote add origin https://github.com/princemofokeng/RMA_agent.git
 git push -u origin master
 
 ```
@@ -115,7 +115,7 @@ Click Save
 
 Your live site will be available shortly at:
 
-(Website)[https://theekingza.github.io/RMA_agent/]
+(Website)[https://princemofokeng.github.io/RMA_agent/]
 
 ```
 Script Details (deploy.sh)
@@ -151,7 +151,7 @@ RMA Agent Profile Website — Built with ❤️ using HTML, CSS, and JS.
 👨‍💻 Author
 Pule Mathikha
 📧 contactcentre@randmutual.co.za (RMA)[mailto:contactcenter@randmutual.co.za]
-💻 GitHub: (TheeKingZa)[https://github.com/TheeKingZa]
+💻 GitHub: (princemofokeng)[https://github.com/princemofokeng]
 📍 Sasolburg, South Africa
 
 🧡 Credits

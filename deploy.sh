@@ -11,8 +11,8 @@ YELLOW='\033[1;33m'
 BLUE='\033[1;34m'
 NC='\033[0m' # reset color
 
-REPO_URL="https://github.com/TheeKingZa/RMA_agent.git"
-LIVE_URL="https://theekingza.github.io/RMA_agent/"
+REPO_URL="https://github.com/princemofokeng/RMA_agent.git"
+LIVE_URL="https://princemofokeng.github.io/RMA_agent/"
 
 # ---------- STEP 1: VERIFY GIT REPO ----------
 if [ ! -d ".git" ]; then
